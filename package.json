@@ -19,7 +19,7 @@
     "jsonfile": "^5.0.0",
     "morgan": "^1.9.1",
     "node": "^12.10.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
